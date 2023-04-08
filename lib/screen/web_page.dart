@@ -14,6 +14,7 @@ class _WebPageFlutterState extends State<WebPageFlutter> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
         actions: <Widget>[
