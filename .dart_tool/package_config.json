@@ -86,6 +86,12 @@
       "languageVersion": "2.13"
     },
     {
+      "name": "math_expressions",
+      "rootUri": "file:///C:/Users/LOGESH%20B/AppData/Local/Pub/Cache/hosted/pub.dev/math_expressions-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "meta",
       "rootUri": "file:///C:/Users/LOGESH%20B/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.8.0",
       "packageUri": "lib/",
@@ -146,13 +152,19 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "widget_circular_animator",
+      "rootUri": "file:///C:/Users/LOGESH%20B/AppData/Local/Pub/Cache/hosted/pub.dev/widget_circular_animator-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "credit_flutter",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-04-08T05:38:55.280101Z",
+  "generated": "2023-05-07T10:57:48.753875Z",
   "generator": "pub",
   "generatorVersion": "2.19.5"
 }
